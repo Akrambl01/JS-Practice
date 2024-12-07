@@ -3,7 +3,6 @@ Welcome to my JavaScript Exercises repository! This repository contains a series
 
 <img src='img/crud1.png' width='413'>
 <img src='img/crud2.png' width='413'>
-<img src='img/crud3.png' width='413'>
 <img src='img/cruds.png' width='413'>
 <img src='img/memory.png' width='413'>
 <img src='img/memorygame.png' width='413'>
